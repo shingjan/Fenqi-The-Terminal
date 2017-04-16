@@ -1,1 +1,1 @@
-# fenqi-the-terminal
+# 分歧终端机 Fenqi The Terminal
